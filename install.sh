@@ -1,10 +1,9 @@
 #!/bin/sh
 
-echo -n from time import gmtime, localtime, strftime
-import datetime"installing dot files ..."
+echo -n "installing dot files ..."
 
 cp .* ~/
 
-echo "done!
+echo "done!"
 
 
